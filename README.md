@@ -2,7 +2,7 @@
 
 Natural Scene Images Classification
 
-Dataset can be downloaded here: https://www.kaggle.com/puneet6060/intel-image-classification
+Dataset is included in the submission file.
 
 Required modules: cv2, tensorflow, sklearn, numpy, matplotlib
 
